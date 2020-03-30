@@ -13,6 +13,10 @@ const items = [
     {
         label: 'Servicios',
         url: `/servicios`
+    },
+    {
+        label: 'Contacto',
+        url: `/contacto`
     }
 ];
 
