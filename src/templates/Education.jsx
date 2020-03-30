@@ -1,5 +1,6 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
+import EducationNav from '../components/EducationNav';
 
 export default ({data}) => {
     const pageData = data.educationJson;
@@ -8,7 +9,12 @@ export default ({data}) => {
         <div>
             <header className="py-12 border-yellow-500 border-solid border-t-8">
                 <div className="max-w-4xl mx-auto">
+                    <Link to={`/`} className="uppercase underline text-orange-500">
+                        Regresar al inicio
+                    </Link>
+
                     <h2 className="capitalize text-6xl font-bold">{pageData.title}</h2>
+
                     <p className="text-xl">{pageData.description}</p>
                 </div>
             </header>
@@ -36,6 +42,8 @@ export default ({data}) => {
                     </li>
                 ))}
             </ul>
+
+            <EducationNav/>
         </div>
     );
 }
