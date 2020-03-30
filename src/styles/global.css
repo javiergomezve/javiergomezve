@@ -16,6 +16,10 @@ body {
     @apply text-yellow-900;
 }
 
+.btn:active {
+    @apply  border-yellow-500
+}
+
 .repos-list {
     columns: 1;
     -moz-column: 3;
