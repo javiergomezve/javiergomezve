@@ -22,3 +22,9 @@
 .repos-list li {
     break-inside: avoid-column;
 }
+
+.vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    @apply bg-yellow-800 text-yellow-300  text-xs p-2 inline-block;
+}
