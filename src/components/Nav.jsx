@@ -9,6 +9,10 @@ const items = [
     {
         label: 'Acerca',
         url: `/acerca`
+    },
+    {
+        label: 'Servicios',
+        url: `/servicios`
     }
 ];
 
