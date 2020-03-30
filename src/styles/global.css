@@ -17,10 +17,16 @@ body {
 }
 
 .repos-list {
-    columns: 3;
+    columns: 1;
     -moz-column: 3;
     column-rule: 1px solid;
     @apply p-4;
+}
+
+@media screen and (min-width: 480px) {
+    .repos-list {
+        columns: 3;
+    }
 }
 
 .repos-list li {

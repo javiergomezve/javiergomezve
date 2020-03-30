@@ -17,12 +17,12 @@ export default (props) => {
     `);
 
     return (
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-4xl mx-auto mt-12">
             <h2 className="text-3xl font-bold text-center">
                 Conoce sobre mi formación educativa
             </h2>
 
-            <nav className="flex justify-center mt-8">
+            <nav className="flex justify-center flex-col md:flex-row mt-8">
                 {data.allEducationJson.edges.map((element, index) => {
                     const {node} = element;
 

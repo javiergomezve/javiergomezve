@@ -21,7 +21,7 @@ export default () => {
                 <div className="max-w-4xl mx-auto">
                     <h2 className="text-3xl font-bold text-center">Mis cursos</h2>
 
-                    <div className="flex mt-8">
+                    <div className="flex flex-col md:flex-row mt-8">
                         {data.allDataJson.nodes.map(certificated => (
                             certificated.data.courses.map(item => (
                                 <div className="shadow p-8 bg-white mr-4">
