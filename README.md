@@ -1,23 +1,48 @@
-## Hello World 👋
-I am a fullstack software engineer reside in Bogotá
-- 👨🏾‍💻 Working on multiple frontend and backend project using React and Nodejs
-- 📚 Learning design patterns in depth
-<br>
+# Hi, I'm Javier 👋
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/javiergomezve)
+### Senior Full-Stack Engineer | Go, TypeScript, AWS
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/javiergomezve)
+I build cloud-native products for fintech, lending, and e-commerce. My work spans backend services, APIs, server-driven UI, event-driven integrations, and infrastructure as code - from product discovery through production support.
 
-<br>
-<br>
+- 💳 Building customer-facing financial products and backend services at scale.
+- ☁️ Working with AWS, Go, TypeScript, DynamoDB, ECS, Lambda, and API Gateway.
+- 🧩 Interested in system design, microservices, developer experience, and cloud infrastructure.
+- 🌎 Based in Colombia and open to global remote opportunities.
 
-## Expertise
+## Core stack
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<br>
-<br>
+**Backend and architecture**
+
+`Go` · `REST APIs` · `Microservices` · `Event-Driven Architecture` · `System Design` · `Server-Driven UI`
+
+**Cloud and infrastructure**
+
+`AWS CDK` · `AWS SAM` · `AWS Lambda` · `Amazon ECS` · `API Gateway` · `DynamoDB` · `Cognito` · `S3` · `CloudFront` · `Docker`
+
+**Full-stack development**
+
+`TypeScript` · `Vue.js` · `React` · `React Native` · `Pinia` · `Node.js`
+
+**Data and quality**
+
+`MySQL` · `PostgreSQL` · `Integration Testing` · `CloudWatch` · `Sentry` · `Code Review`
+
+## What I work on
+
+- Financial-product experiences, including credit-card acquisition, activation, account access, and card controls.
+- Backend services that aggregate data across multiple domains and power dynamic customer experiences.
+- Multi-tenant lending platforms with tenant isolation, configurable workflows, and role-based access control.
+- E-commerce platforms, product catalog ingestion, CMS capabilities, and legacy frontend modernization.
+- Infrastructure as code and cloud services that make product teams faster and systems easier to operate.
+
+## Let's connect
+
+- 📫 [javiergomezve@gmail.com](mailto:javiergomezve@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/javiergomezve)
+
+<!--
+To publish this as a GitHub profile README:
+1. Create a public repository named exactly `javiergomezve`.
+2. Add this content to `README.md` in that repository.
+3. Pin the repositories that best demonstrate Go, TypeScript, AWS, and production-quality work.
+-->
