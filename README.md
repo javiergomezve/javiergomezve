@@ -46,5 +46,3 @@ To publish this as a GitHub profile README:
 2. Add this content to `README.md` in that repository.
 3. Pin the repositories that best demonstrate Go, TypeScript, AWS, and production-quality work.
 -->
-
-[![Boot.dev Learn Logging and Observability in Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3ae6d158-b849-4299-b41e-93cc6d262d8f.jpeg?v=1790109546)](https://www.boot.dev/certificates/3ae6d158-b849-4299-b41e-93cc6d262d8f)
